@@ -10,7 +10,7 @@
 ## Connect with me :
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lawrence-gumabon-7018b7255/)
 
------------------------------------------------------------------------------
+<!-- ----------------------------------------------------------------------------- -->
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=lwrncgmbn&theme=dark)](https://git.io/streak-stats) -->
 
